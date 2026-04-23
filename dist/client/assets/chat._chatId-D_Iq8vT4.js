@@ -1,0 +1,1 @@
+import{g as r,j as o}from"./index-TjidiSjS.js";import{C as a}from"./ChatView-IOxXx9cN.js";import{A as m}from"./AppShell-vm5urbmK.js";import"./button-CBESafO7.js";import"./chevron-down-89S_7YRT.js";import"./index-Bli-caPR.js";function h(){const{chatId:t}=r({from:"/chat/$chatId"});return o.jsx(m,{children:o.jsx(a,{chatId:t},t)})}export{h as component};
